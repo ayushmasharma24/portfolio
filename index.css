@@ -165,9 +165,6 @@ section .title::after{
 /* home section styling */
 .home{
   display: flex;
-  /*<img src="C:\Users\DELL\Downloads\undraw_voice_interface_eckp (1).svg" class="responsive" style = "width:800px">*/
-
-  /*background-image: url("C:\Users\DELL\Downloads\undraw_voice_interface_eckp (1).svg");*/
   height: 100vh;
   background-color: #000000;
   color: #fff;
@@ -306,7 +303,6 @@ section .title::after{
 }
 
 .circle{
-  background: skin-tone.jpg;
   background-size: cover;
   border-radius:50% 50% 50% 50%;
   width:100px;
